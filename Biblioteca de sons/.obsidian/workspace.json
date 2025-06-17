@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pack GUi.md",
+                "file": "Pack UI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pack GUi"
+              "title": "Pack UI"
             }
           }
         ]
@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pack GUi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pack GUi"
+              "title": "Backlinks"
             }
           },
           {
@@ -129,12 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pack GUi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pack GUi"
+              "title": "Outgoing links"
             }
           },
           {
@@ -158,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pack GUi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pack GUi"
+              "title": "Outline"
             }
           }
         ]
@@ -184,14 +181,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a36d06a179c2a05c",
+  "active": "3bbce3a69960b85b",
   "lastOpenFiles": [
-    "GUI_Sound_Effects_by_Lokif.7z",
+    "steps in wood floor.wav.md",
     "Pack UI.md",
+    "steps in wood floor.wav",
     "Pack GUi.md",
+    "GUI_Sound_Effects_by_Lokif.7z",
     "UI_SFX_Set.zip",
     "Passos/som de passo na madeira.md",
-    "steps in wood floor.wav",
     "Welcome.md",
     "Passos"
   ]
